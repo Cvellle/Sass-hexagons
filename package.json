@@ -8,7 +8,6 @@
     "start": "webpack --progress && webpack-dev-server -d --hot --config webpack.config.js --watch",
     "production": "NODE_ENV=production webpack"
   },
-  "author": "Tanja Malilkovic",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^7.2.6",
@@ -31,10 +30,6 @@
   "dependencies": {
     "webpack": "^3.11.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://bitbucket.org/tmalikovic/webpack-boilerplate.git"
-  },
-  "keywords": [],
-  "homepage": "https://bitbucket.org/tmalikovic/webpack-boilerplate#readme"
+  "repository": "https://github.com/Cvellle/Boilerplate---Brightmarbles.git",
+  "keywords": []
 }
